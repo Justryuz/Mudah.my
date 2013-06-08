@@ -1,0 +1,14 @@
+{
+    "name": "Mudah",
+    "icons": {
+        "128": "/images/logo.png"
+	},
+    "version": "1.0.0",
+    "description": "Mudah.my - Buy and find jobs,cars for sale, houses for sale, mobile phones for sale, computers for sale and properties for sale in your region conveniently. Find the best deal among 901674 ads online",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Fahmi Fisal / Justryuz",
+        "url": "http://mozilla.my"
+    },
+    "orientation": ["portrait-primary"]
+}
