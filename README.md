@@ -1,8 +1,11 @@
-/---
 Mudah.My
----/
+----------
 
-Sample WebApps Project | FirefoxOS 
+WebApps Project | FirefoxOS 
+
+Preview
+------------
+https://marketplace.firefox.com/app/mudah/
 
 Contributing
 ------------
